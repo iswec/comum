@@ -1,0 +1,19 @@
+.navbar-brand img {
+  height: 3rem;
+  width: 10rem;
+}
+
+.btn-outline-warning {
+  color: #919495;
+  border-color: #dee2e6;
+}
+
+.btn-outline-warning:hover {
+  color: #000000;
+  background-color: #F0E900;
+  border-color: #F0E900;
+}
+
+.espaco {
+  margin-bottom: 10rem;
+}
